@@ -68,7 +68,7 @@ class Login extends Component {
                         </TouchableOpacity>
                     </View>
 
-                    <View style={{ alignItems:'center',justifyContent: 'center',padding:20 }}>
+                    <View style={{ alignItems:'center',justifyContent: 'center',padding:60 }}>
                          
                     </View>
                 </View>
