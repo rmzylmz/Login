@@ -69,7 +69,7 @@ class Login extends Component {
                     </View>
 
                     <View style={{ alignItems:'center',justifyContent: 'center',padding:20 }}>
-                         <Text>Ramazan</Text>
+                         <Text>RamazanRamazanRamazanRamazanRamazanRamazanRamazanRamazanRamazanRamazan</Text>
                     </View>
                 </View>
             </View>
